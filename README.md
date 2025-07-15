@@ -5,10 +5,12 @@
 
 ### 💻 Projects
 
+### 💻 Projects
+
 - 🕹️ **Checkers Game in C# WinForms**  
   A full-featured local multiplayer checkers game with custom UI and flexible board sizes.
 
-- 📊 **Facebook Activity Analyzer App**  
+- 📊 **InsightBoard – Facebook Dashboard App**  
   WinForms app that integrates with the Facebook API to visualize user data using charts and graphs. Implements multiple design patterns and a custom dynamic menu system.
 
 ### 🛠️ Tech Stack
