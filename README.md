@@ -1,21 +1,18 @@
 ## 👋 Hi, I’m Hadar Ben Zaken
 
-🎓 I'm a third-year Computer Science student at HIT – Holon Institute of Technology.  
-💡 I focus on developing structured, user-oriented desktop applications, combining clean, maintainable code with clear architectural planning and the application of advanced design patterns.
+🎓 Computer Science graduate from HIT – Holon Institute of Technology, focused on building structured, user-oriented desktop applications with an emphasis on clean, maintainable code, clear architectural design, and practical use of advanced design patterns.
 
 ### 💻 Projects
 
-### 💻 Projects
-
-- 🕹️ **Checkers Game in C# WinForms**  
-  A full-featured local multiplayer checkers game with custom UI and flexible board sizes.
+- 🕹️ **Checkers Game in C# WinForms**
+  A full-featured local multiplayer Checkers game with a custom UI, flexible board sizes, and a strong focus on object-oriented design.
 
 - 📊 **InsightBoard – Facebook Dashboard App**  
   WinForms app that integrates with the Facebook API to visualize user data using charts and graphs. Implements multiple design patterns and a custom dynamic menu system.
 
 ### 🛠️ Tech Stack
-C# • .NET • WinForms • OOP • Git • GitHub • FacebookWrapper SDK  
-Design Patterns (Builder, Factory, Command, Decorator, Strategy)
+C#, .NET, WinForms, OOP, Git, GitHub, FacebookWrapper SDK
+Design Patterns: Builder, Factory, Command, Decorator, Strategy
 
 ---
 
