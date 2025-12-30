@@ -12,6 +12,7 @@
 
 ### 🛠️ Tech Stack
 C#, .NET, WinForms, OOP, Git, GitHub, FacebookWrapper SDK
+
 Design Patterns: Builder, Factory, Command, Decorator, Strategy
 
 ---
