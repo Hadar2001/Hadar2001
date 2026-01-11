@@ -37,7 +37,7 @@ Focused on building structured, user-oriented applications with **clean, maintai
 - Event-driven architecture with automated actuator control, image capture, and real-time notifications
 - Focus on modularity, reliability, and false-positive reduction
 
-🔗 **Repository:** [Home-Invader-IoT-Security-System](https://github.com/Hadar2001/Home-Invader-IoT-Security-System)
+🔗 **Repository:** [Home-Invader-IoT-Security-System](https://github.com/Hadar2001/Home-Invader-Intelligent-IoT-Security-System)
 
 ---
 
