@@ -2,15 +2,32 @@
 🎓 Computer Science graduate from HIT – Holon Institute of Technology, focused on building structured, user-oriented applications with an emphasis on clean, maintainable code, clear architectural design, and practical use of advanced design patterns.
 
 💻 Projects
-
 🕹️ Checkers Game – C# WinForms
-A full-featured local multiplayer Checkers game with a custom UI, flexible board sizes, and a strong focus on object-oriented design and clean, modular architecture.
+
+A classic Checkers game implemented with a strong emphasis on object-oriented design and clean architecture.
+
+Clear separation between game logic and UI layers
+
+Supports multiple board sizes (6×6, 8×8, 10×10)
+
+Local multiplayer and basic AI opponent
+
+Modular, extensible design enabling easy rule and feature expansion
 
 📊 InsightBoard – Social Media Data Dashboard
-A WinForms application that integrates with third-party social media APIs to visualize user data using charts and graphs.
-The project emphasizes clean UI design, separation of concerns, and the use of multiple design patterns, including a custom dynamic menu system.
+
+A WinForms desktop application that integrates with third-party social media APIs to visualize user activity and statistics.
+
+Data visualization using charts and graphs
+
+Modular UI with a dynamic menu system
+
+Clean separation of concerns between data, logic, and presentation layers
+
+Extensive use of object-oriented design patterns for scalability and maintainability
 
 🏠 Home Invader – Intelligent IoT Security System
+
 An end-to-end IoT security system combining embedded systems, computer vision, and real-time event handling.
 
 Live video streaming from an IoT edge device
@@ -19,9 +36,9 @@ Real-time human detection using deep learning–based computer vision models
 
 RESTful communication between embedded firmware and backend services
 
-Automated responses including actuator control, image capture, and real-time notifications
+Event-driven architecture with automated actuator control, image capture, and real-time notifications
 
-Emphasis on modular design, separation of responsibilities, and false-positive reduction logic
+Emphasis on modular design, reliability, and false-positive reduction logic
 
 This project demonstrates full-stack IoT development, from low-level hardware control to AI-driven analysis and cloud-based notifications.
 
